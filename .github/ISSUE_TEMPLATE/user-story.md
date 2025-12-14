@@ -1,5 +1,5 @@
 ---
-name: User Stories
+name: User Story
 about: Template for capturing user stories for developers to come up with a clear
   understanding of client solution expected
 title: ''
